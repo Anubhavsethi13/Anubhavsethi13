@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Portfolio.<br>👯 I’m looking to collaborate on Blockchain.<br>🤝 I’m looking for help with Portfolio.<br>🌱 I’m currently learning Basics of Graphics Designing.<br>💬 Ask me about anything.
+🔭 I’m currently working on my Portfolio.<br>👯 I’m looking to collaborate on Blockchain.<br>🤝 I’m looking for help with AI Model train.<br>🌱 I’m currently learning Graphics Designing.<br>💬 Ask me about anything.
 
 
 ## 🌐 Socials:
